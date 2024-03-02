@@ -91,6 +91,7 @@ def predictImage():
 # Create the main window
 root = tk.Tk()
 root.title("Durian Classification User Interface")
+root.iconbitmap("durian-ui-logo.ico")
 
 # Set fixed window size
 window_width = 800
