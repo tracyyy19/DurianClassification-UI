@@ -8,5 +8,8 @@ This is a graphical user interface (GUI) application built using Tkinter for cla
 
 - Upload an image of a durian for classification.
  ![1](https://github.com/tracyyy19/DurianClassification-UI/assets/86280484/d02cbb2d-370c-4137-b38f-a2b5f2a7b941)
-- Classify the uploaded image into one of three durian classes.
-- View the predicted class and probabilities.
+- Once uploaded, preprocessed image is shown
+![2](https://github.com/tracyyy19/DurianClassification-UI/assets/86280484/c1f33435-62db-4f70-a508-2724cf8bbf66)
+- After uploading, click the 'Classify' button to determine the type of durian.
+- A message will pop up displaying the probabilities.
+![3](https://github.com/tracyyy19/DurianClassification-UI/assets/86280484/a3d53cf0-355f-4ac7-9021-74c5ec0efa71)
